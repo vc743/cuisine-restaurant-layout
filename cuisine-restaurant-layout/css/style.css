@@ -11,7 +11,7 @@ a{
 .top-container{
     margin: 0;
     padding: 0;
-    background-image: url(/images/top-bg.jpeg);
+    background-image: url(./images/top-bg.jpeg);
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
@@ -170,7 +170,7 @@ a{
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url(/images/main-bg.jpeg);
+    background-image: url(./images/main-bg.jpeg);
     background-size: cover;
     background-position: top center;
     opacity: 0.3;
